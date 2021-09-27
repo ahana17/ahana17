@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 I’m currently working with AISys Lab, UofSC under Dr. Pooyan Jamshidi, co-advised by Mohammad Ali Javidian on Causal Transfer Learning
+🌱 I’m currently learning causal Domain Adaptation techniques!
+👯 I’m looking to collaborate on Causal Infererence, Transfer Learning, Machine Learning
+📫 Connect with me on LinkedIn: https://www.linkedin.com/in/ahana-biswas  
+😄 Pronouns: She/her
+⚡ Fun fact: I'm reading Feminist theory!
