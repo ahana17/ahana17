@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 😄 Pronouns: She/her
 
-⚡ Fun fact: I'm reading Feminist theory!
+⚡ Fun fact: I'm reading Feminist Theory and Literature!
