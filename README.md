@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning causal Domain Adaptation techniques!
 
-👯 I’m looking to collaborate on Causal Infererence, Transfer Learning, Machine Learning
+👯 I’m looking to collaborate on Social Computing, Machine Learning, Causal Infererence methods
 
 📫 Connect with me on LinkedIn: https://www.linkedin.com/in/ahana-biswas  
 
