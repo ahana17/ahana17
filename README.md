@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working with AISys Lab, UofSC under Dr. Pooyan Jamshidi, co-advised by Mohammad Ali Javidian on Causal Transfer Learning
-
-🌱 I’m currently learning causal Domain Adaptation techniques!
+🔭 I’m currently a senior undergraduate at the Indian Indian of Technology, Kanpur (IITK) majoring in Electrical Engineering
 
 👯 I’m looking to collaborate on Social Computing, Machine Learning, Causal Infererence methods
 
