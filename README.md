@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 👯 I’m looking to collaborate on Social Computing, Machine Learning, Causal Infererence methods
 
-📫 Connect with me on LinkedIn: https://www.linkedin.com/in/ahana-biswas or Twitter: @ahana_bi
+📫 Connect with me on LinkedIn: ahana-biswas or Twitter: @ahana_bi
 
 😄 Pronouns: She/her
 
